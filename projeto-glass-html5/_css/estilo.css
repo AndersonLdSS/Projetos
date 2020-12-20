@@ -170,9 +170,11 @@ table#tabelaespc td.ce{
     background-color: #606060;
     vertical-align: top;
     font-weight: bold;
+    text-align: right;
 }
 table#tabelaespc td.cd{
     background-color: #cecece;
+    text-align: left;
 }
 table#tabelaespc td{
     border: 1px solid #606060;
